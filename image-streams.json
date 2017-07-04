@@ -2,7 +2,7 @@
     "kind": "ImageStream",
     "apiVersion": "v1",
     "metadata": {
-        "name": "my-jupyter",
+        "name": "minimal-notebookr",
         "annotations": {
             "openshift.io/display-name": "Jupyter Notebook"
         }
@@ -21,7 +21,7 @@
                 },
                 "from": {
                     "kind": "DockerImage",
-                    "name": "wohshon/my-jupyter:latest"
+                    "name": "wohshon/minimal-notebook:latest"
                 }
             }
         ]
