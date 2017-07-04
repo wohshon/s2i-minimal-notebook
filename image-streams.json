@@ -2,7 +2,7 @@
     "kind": "ImageStream",
     "apiVersion": "v1",
     "metadata": {
-        "name": "minimal-notebookr",
+        "name": "minimal-notebook",
         "annotations": {
             "openshift.io/display-name": "Jupyter Notebook"
         }
