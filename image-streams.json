@@ -21,7 +21,7 @@
                 },
                 "from": {
                     "kind": "DockerImage",
-                    "name": "getwarped/s2i-minimal-notebook:latest"
+                    "name": "wohshon/my-jupyter:latest"
                 }
             }
         ]
